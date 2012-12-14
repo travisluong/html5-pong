@@ -1,5 +1,7 @@
 body {
 	font-family: Consolas, Arial, sans-serif;
+	background: #000;
+	color: #FFF;
 }
 canvas {
 	margin: auto;
@@ -25,6 +27,7 @@ a {
 #stage {
 	width: 600px;
 	margin: auto;
+	border: 1px solid #FFF;
 }
 #instructions {
 	width: 600px;
