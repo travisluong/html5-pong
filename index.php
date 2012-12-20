@@ -11,6 +11,7 @@
 </head>
 <body>
 	<?php include('../header.php'); ?>
+	<div class="screen-reader"><h2>HTML5 Pong</h2></div>
 	<div id="stage"></div>
 	<div id="instructions">
 		<p id="player1">
