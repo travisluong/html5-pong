@@ -1,28 +1,6 @@
-body {
-	font-family: Consolas, Arial, sans-serif;
-	background: #000;
-	color: #FFF;
-}
 canvas {
 	margin: auto;
 	display: block;
-}
-h1 {
-	margin: 0;
-}
-a {
-	color: #7F9500;
-}
-#ad {
-	width: 728px;
-	margin: 20px auto;
-}
-#header {
-	width: 600px;
-	margin: 20px auto;
-}
-#author {
-	margin: 0;
 }
 #stage {
 	width: 600px;
@@ -31,7 +9,6 @@ a {
 }
 #instructions {
 	width: 600px;
-	margin: auto;
 }
 #player1 {
 	float: left;
